@@ -1,0 +1,20 @@
+{
+    "name": "jigius/core-stack",
+    description": "Stacking data by chunks and outputs them at once as string",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jigius",
+            "email": "jigius@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Core\\Stack\\": "src/"
+        }
+    }
+}
