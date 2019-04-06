@@ -1,6 +1,6 @@
 {
     "name": "jigius/core-stack",
-    description": "Stacking data by chunks and outputs them at once as string",
+    "description": "Stacking data by chunks and outputs them at once as string",
     "type": "library",
     "license": "MIT",
     "authors": [
